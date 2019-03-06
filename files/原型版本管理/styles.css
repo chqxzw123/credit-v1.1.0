@@ -18,7 +18,7 @@
   left:83px;
   top:436px;
   width:745px;
-  height:148px;
+  height:215px;
 }
 #u1_img {
   border-width:0px;
@@ -200,6 +200,7 @@
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 #u7_text {
@@ -244,7 +245,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:44px;
+  height:47px;
 }
 #u9 {
   border-width:0px;
@@ -252,14 +253,14 @@
   left:0px;
   top:60px;
   width:100px;
-  height:44px;
+  height:47px;
   text-align:center;
 }
 #u9_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:14px;
+  top:16px;
   width:96px;
   word-wrap:break-word;
 }
@@ -269,7 +270,7 @@
   left:0px;
   top:0px;
   width:67px;
-  height:44px;
+  height:47px;
 }
 #u10 {
   border-width:0px;
@@ -277,14 +278,14 @@
   left:100px;
   top:60px;
   width:67px;
-  height:44px;
+  height:47px;
   text-align:center;
 }
 #u10_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:14px;
+  top:16px;
   width:63px;
   word-wrap:break-word;
 }
@@ -294,7 +295,7 @@
   left:0px;
   top:0px;
   width:402px;
-  height:44px;
+  height:47px;
 }
 #u11 {
   border-width:0px;
@@ -302,10 +303,11 @@
   left:167px;
   top:60px;
   width:402px;
-  height:44px;
+  height:47px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 #u11_text {
@@ -322,7 +324,7 @@
   left:0px;
   top:0px;
   width:176px;
-  height:44px;
+  height:47px;
 }
 #u12 {
   border-width:0px;
@@ -330,7 +332,7 @@
   left:569px;
   top:60px;
   width:176px;
-  height:44px;
+  height:47px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -340,7 +342,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:16px;
+  top:17px;
   width:172px;
   word-wrap:break-word;
 }
@@ -356,7 +358,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:104px;
+  top:107px;
   width:100px;
   height:44px;
   text-align:center;
@@ -381,7 +383,7 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:104px;
+  top:107px;
   width:67px;
   height:44px;
   text-align:center;
@@ -406,19 +408,20 @@
   border-width:0px;
   position:absolute;
   left:167px;
-  top:104px;
+  top:107px;
   width:402px;
   height:44px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 #u15_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:16px;
+  top:15px;
   width:398px;
   word-wrap:break-word;
 }
@@ -434,7 +437,7 @@
   border-width:0px;
   position:absolute;
   left:569px;
-  top:104px;
+  top:107px;
   width:176px;
   height:44px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -450,7 +453,114 @@
   width:172px;
   word-wrap:break-word;
 }
-#u17_div {
+#u17_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:64px;
+}
+#u17 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:151px;
+  width:100px;
+  height:64px;
+  text-align:center;
+}
+#u17_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u18_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:64px;
+}
+#u18 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:151px;
+  width:67px;
+  height:64px;
+  text-align:center;
+}
+#u18_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:63px;
+  word-wrap:break-word;
+}
+#u19_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:402px;
+  height:64px;
+}
+#u19 {
+  border-width:0px;
+  position:absolute;
+  left:167px;
+  top:151px;
+  width:402px;
+  height:64px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+#u19_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:398px;
+  word-wrap:break-word;
+}
+#u20_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:176px;
+  height:64px;
+}
+#u20 {
+  border-width:0px;
+  position:absolute;
+  left:569px;
+  top:151px;
+  width:176px;
+  height:64px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  text-align:center;
+}
+#u20_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:172px;
+  word-wrap:break-word;
+}
+#u21_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -470,7 +580,7 @@
   font-size:48px;
   text-align:center;
 }
-#u17 {
+#u21 {
   border-width:0px;
   position:absolute;
   left:111px;
@@ -483,7 +593,7 @@
   font-size:48px;
   text-align:center;
 }
-#u17_text {
+#u21_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -491,7 +601,7 @@
   width:689px;
   word-wrap:break-word;
 }
-#u18_div {
+#u22_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -511,7 +621,7 @@
   font-size:20px;
   text-align:center;
 }
-#u18 {
+#u22 {
   border-width:0px;
   position:absolute;
   left:335px;
@@ -524,7 +634,7 @@
   font-size:20px;
   text-align:center;
 }
-#u18_text {
+#u22_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -532,7 +642,7 @@
   width:240px;
   word-wrap:break-word;
 }
-#u19_div {
+#u23_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -552,7 +662,7 @@
   font-size:20px;
   text-align:center;
 }
-#u19 {
+#u23 {
   border-width:0px;
   position:absolute;
   left:335px;
@@ -565,7 +675,7 @@
   font-size:20px;
   text-align:center;
 }
-#u19_text {
+#u23_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -573,7 +683,7 @@
   width:240px;
   word-wrap:break-word;
 }
-#u20_div {
+#u24_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -590,7 +700,7 @@
   font-size:36px;
   text-align:center;
 }
-#u20 {
+#u24 {
   border-width:0px;
   position:absolute;
   left:383px;
@@ -600,7 +710,7 @@
   font-size:36px;
   text-align:center;
 }
-#u20_text {
+#u24_text {
   border-width:0px;
   position:absolute;
   left:0px;
