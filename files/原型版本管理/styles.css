@@ -18,7 +18,7 @@
   left:83px;
   top:436px;
   width:745px;
-  height:279px;
+  height:297px;
 }
 #u1_img {
   border-width:0px;
@@ -566,7 +566,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:64px;
+  height:82px;
 }
 #u21 {
   border-width:0px;
@@ -574,14 +574,14 @@
   left:0px;
   top:215px;
   width:100px;
-  height:64px;
+  height:82px;
   text-align:center;
 }
 #u21_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:24px;
+  top:34px;
   width:96px;
   word-wrap:break-word;
 }
@@ -591,7 +591,7 @@
   left:0px;
   top:0px;
   width:67px;
-  height:64px;
+  height:82px;
 }
 #u22 {
   border-width:0px;
@@ -599,14 +599,14 @@
   left:100px;
   top:215px;
   width:67px;
-  height:64px;
+  height:82px;
   text-align:center;
 }
 #u22_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:24px;
+  top:34px;
   width:63px;
   word-wrap:break-word;
 }
@@ -616,7 +616,7 @@
   left:0px;
   top:0px;
   width:402px;
-  height:64px;
+  height:82px;
 }
 #u23 {
   border-width:0px;
@@ -624,18 +624,17 @@
   left:167px;
   top:215px;
   width:402px;
-  height:64px;
+  height:82px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
   text-align:left;
 }
 #u23_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:22px;
+  top:12px;
   width:398px;
   word-wrap:break-word;
 }
@@ -645,7 +644,7 @@
   left:0px;
   top:0px;
   width:176px;
-  height:64px;
+  height:82px;
 }
 #u24 {
   border-width:0px;
@@ -653,7 +652,7 @@
   left:569px;
   top:215px;
   width:176px;
-  height:64px;
+  height:82px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -663,7 +662,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:26px;
+  top:34px;
   width:172px;
   word-wrap:break-word;
 }
